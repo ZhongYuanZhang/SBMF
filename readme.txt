@@ -16,5 +16,5 @@ Have fun!
 
 %%------------------------------------------------
 
-If you use the codes, please make reference to: Zhong-Yuan Zhang, Yong Wang, and Yong-Yeol Ahn. "Overlapping Community Detection in Complex Networks using Symmetric Binary Matrix Factorization." arXiv preprint arXiv:1303.5855 (2013).
+If you use the codes, please make reference to: Zhang Z Y, Wang Y, Ahn Y Y. Overlapping community detection in complex networks using symmetric binary matrix factorization[J]. Physical Review E, 2013, 87(6): 062803.
 
